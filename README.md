@@ -1,4 +1,3 @@
-# Learn Python Together Bot
+# carbs And Eels
 
-#https://lptb.herokuapp.com/
 
